@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời tiết</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="defaultCity">Hanoi</string>
+
+    <string name="str_search">Tìm kiếm</string>
+    <string name="add_city">Thêm thành phố</string>
+    <string name="notification">Thông báo</string>
+    <string name="rate_app">Đánh giá</string>
+    <string name="contact_us">Liên hệ</string>
+    <string name="setting">Cài đặt</string>
+    <string name="str_feels_like">Cảm giác</string>
+    <string name="str_wind">Gió</string>
+    <string name="str_visibility">Tầm nhìn</string>
+    <string name="str_humidity">Độ ẩm</string>
+    <string name="str_clouds">Mây</string>
+    <string name="str_pressure">Áp suất</string>
+
+    <!--    unit-->
+    <string name="temp_unit">°C</string>
+    <string name="wind_unit">m/s</string>
+    <string name="pressure_unit">mm</string>
+    <string name="percent_unit">%</string>
+    <string name="visibility_unit">Km</string>
+
+    <string name="Sun">Mặt trời</string>
+    <string name="last_update">Lần cập nhật cuối: </string>
+    <string name="str_next_7_days">7 Ngày Tới</string>
+    <string name="str_7days_forecast">Dự Báo 7 Ngày Tới</string>
+    <string name="str_24_hours_next">24 Giờ Tới</string>
+    <string name="str_tomorrow">Ngày mai</string>
+
+    <string name="str_last_city_name">Hà Nội</string>
+    <string name="str_last_country">VN</string>
+    <string name="str_last_temp">33</string>
+    <string name="str_last_date">Thứ Ba, 30/06/2020</string>
+    <string name="str_last_description">Mây rải rác</string>
+    <string name="str_last_feel">36°C</string>
+    <string name="str_last_wind">3.2m/s</string>
+    <string name="str_last_pressure">752mm</string>
+    <string name="str_last_humidity">66%</string>
+    <string name="str_last_clouds">50%</string>
+    <string name="str_last_visibility">10Km</string>
+    <string name="str_last_time"> 10:21:20 Thứ Ba, 30/06/2020</string>
+    <string name="str_last_sunrise">05:30</string>
+    <string name="str_last_sunset">18:32</string>
+
+    //dialog
+    <string name="dialog_exit_app">Thoát ứng dụng?</string>
+    <string name="dialog_OK">ĐỒNG Ý</string>
+    <string name="dialog_CANCEL">HUỶ BỎ</string>
+
+    //theme
+    <string name="str_theme">Chọn Chủ Đề</string>
+    <string name="str_light_theme">Chủ đề sáng</string>
+    <string name="str_dark_theme">Chủ đề tối</string>
+    <string name="str_set_by_battery_saver">Thiết lập theo trình tiết kiệm pin</string>
+    <string name="str_confirm">Xác nhận</string>
+    <string name="str_chosen">Đã chọn:</string>
+</resources>

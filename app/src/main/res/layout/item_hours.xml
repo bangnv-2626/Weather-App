@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_64sdp"
+    android:layout_height="@dimen/_120sdp"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="@dimen/_8sdp"
+    android:layout_marginEnd="@dimen/_8sdp"
+    android:layout_marginBottom="@dimen/_8sdp"
+    android:outlineSpotShadowColor="@color/color_shadow_cardview"
+    app:cardBackgroundColor="@color/color_bg"
+    app:cardCornerRadius="@dimen/dp_6"
+    app:cardElevation="@dimen/dp_6"
+    android:clickable="true"
+    android:foreground="?attr/selectableItemBackground"
+    android:stateListAnimator="@anim/animation"
+    tools:context=".activites.MainActivity"
+    tools:ignore="UnusedAttribute">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/item_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/_2sdp"
+            android:text="23:00"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="@dimen/_18sdp" />
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="@dimen/_55sdp"
+            android:layout_height="@dimen/_55sdp"
+            android:layout_below="@id/item_hour"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_01n_clear_sky"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/item_temp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_image"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text="00°C"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="@dimen/_18sdp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

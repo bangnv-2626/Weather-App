@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#142870</color>
+    <color name="colorPrimaryDark">#34457F</color>
+
+<!--    <color name="color_bg_item">#2D3C72</color>-->
+    <color name="color_bg_item">#142870</color>
+    <color name="color_bg_item_rv">#142870</color>
+    <color name="color_bg">#34457F</color>
+    <color name="color_shadow_cardview">#000000</color>
+
+    <color name="color_main_text">#FFFFFF</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="color_description">#A3A9C1</color>
+
+    <color name="colorAccent">#03DAC5</color>
+    <color name="color_fbutton">#EE5C42</color>
+    <color name="color_shadow_fbutton">#990000</color>
+</resources>

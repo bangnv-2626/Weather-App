@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="defaultCity">Hanoi</string>
+
+    <string name="str_search">Search</string>
+    <string name="add_city">Add city</string>
+    <string name="notification">Notification</string>
+    <string name="rate_app">Rate app</string>
+    <string name="contact_us">Contact</string>
+    <string name="setting">Setting</string>
+    <string name="str_feels_like">Feels like</string>
+    <string name="str_wind">Wind</string>
+    <string name="str_visibility">Visibility</string>
+    <string name="str_humidity">Humidity</string>
+    <string name="str_clouds">Clouds</string>
+    <string name="str_pressure">Pressure</string>
+
+    <!--    unit-->
+    <string name="temp_unit">°C</string>
+    <string name="wind_unit">m/s</string>
+    <string name="pressure_unit">mm</string>
+    <string name="percent_unit">%</string>
+    <string name="visibility_unit">Km</string>
+    <string name="Sun">Sun</string>
+    <string name="last_update">Last update: </string>
+    <string name="str_next_7_days">Next 7 days</string>
+    <string name="str_7days_forecast">7 Days Forecast</string>
+    <string name="str_24_hours_next">24 Hours Next</string>
+    <string name="str_tomorrow">Tomorrow</string>
+
+    <string name="str_last_city_name">Hanoi</string>
+    <string name="str_last_country">VN</string>
+    <string name="str_last_temp">33</string>
+    <string name="str_last_date">Tuesday, 30/06/2020</string>
+    <string name="str_last_description">Few clouds</string>
+    <string name="str_last_feel">36°C</string>
+    <string name="str_last_wind">3.2m/s</string>
+    <string name="str_last_pressure">752mm</string>
+    <string name="str_last_humidity">66%</string>
+    <string name="str_last_clouds">50%</string>
+    <string name="str_last_visibility">10Km</string>
+    <string name="str_last_time">10:21:20 Tuesday, 30/06/2020</string>
+    <string name="str_last_sunrise">05:30</string>
+    <string name="str_last_sunset">18:32</string>
+
+    //dialog
+    <string name="dialog_exit_app">Exit app?</string>
+    <string name="dialog_OK">OK</string>
+    <string name="dialog_CANCEL">CANCEL</string>
+
+    //theme
+    <string name="str_theme">Choose Theme</string>
+    <string name="str_light_theme">Light theme</string>
+    <string name="str_dark_theme">Dark theme</string>
+    <string name="str_set_by_battery_saver">Set by battery saver</string>
+    <string name="str_confirm">Confirm</string>
+    <string name="str_chosen">Chosen:</string>
+
+</resources>
